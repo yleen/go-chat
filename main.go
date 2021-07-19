@@ -10,6 +10,6 @@ func main() {
 }
 
 //执行方式
-//go build -o main.go server.go
+//go build -o server main.go server.go
 //./server
 // nc 127.0.0.1 8888
